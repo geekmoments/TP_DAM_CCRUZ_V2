@@ -82,10 +82,8 @@ Una vez instaladas todas las dependencias necesarias se podrá ejecutar el sigui
 docker-compose up
 ```
  
-Luego se podrá acceder con un browser a dos url segun la vista que deseemos ver:
-
-* Lab: http://localhost:8200
-
+Luego acceder al url:
+ 
 * Local: http://localhost:8100
 
 ## Consideraciones

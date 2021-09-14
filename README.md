@@ -1,3 +1,5 @@
+![Screen Shot 2021-09-13 at 16 46 13](https://user-images.githubusercontent.com/70829024/133178236-07f5ccbe-ecfc-483a-9ebf-7c4c16701620.png)
+![Screen Shot 2021-09-13 at 16 46 29](https://user-images.githubusercontent.com/70829024/133178249-85090af7-5f61-4dfc-ad78-db866305d097.png)
 # TP_DAM_CCRUZ_V2
 # Trabajo Práctico Final - César Cruz
 ## Desarrollo de aplicaciones multiplataforma
